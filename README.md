@@ -1,5 +1,4 @@
 # Python_Project12-Best-content-popular-questions-for-Stack-Exchange
-Task is to figuring out what is best content to write about on Stack Exchange.
 
 ### Popular Data Science Questions¶
 The Goal this project is to use Data Science Stack Exchange to determine what content should a [data science](https://datascience.stackexchange.com/) education company create, based on interest by subject.
@@ -108,3 +107,9 @@ Here's what the first few rows look like:
 | 44423 | 1          | 2019-01-23 09:58:41 | 2     | 1651      | < python>< time-series>< forecast>< forecasting>                      | 0           |               |
 | 44427 | 1          | 2019-01-23 10:57:09 | 0     | 55        | < machine-learning>< scikit-learn>< pca>                             | 1           |               |
 | 44428 | 1          | 2019-01-23 11:02:15 | 0     | 19        | < dataset>< bigdata>< data>< speech-to-text>                          | 0           |               |
+
+
+## Note
+## Please see the __Stack_Exchange.ipynb__ file to see whole project in detail.
+## Please see __Stack_Exchange.py__ file to see the python code.
+## __2019_questions.csv__ & __all_questions.csv__ are the datasets we used in this project.
