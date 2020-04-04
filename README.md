@@ -1,10 +1,10 @@
 # Python_Project12-Best-content-popular-questions-for-Stack-Exchange
 Task is to figuring out what is best content to write about on Stack Exchange.
 
-### Stack Exchange\n",
-Stack Exchange hosts sites on a multitude of fields and subjects, including mathematics, physics, philosophy, and [data science!](https://datascience.stackexchange.com/) Here's a sample of the most popular sites:\n",
-<img src=\"https://dq-content.s3.amazonaws.com/469/se_sites.png\">\n",
-[__Stack Exchange__](https://stackexchange.com/sites?view=list#percentanswered)\n",
+### Stack Exchange
+Stack Exchange hosts sites on a multitude of fields and subjects, including mathematics, physics, philosophy, and [data science!](https://datascience.stackexchange.com/) Here's a sample of the most popular sites:
+<img src=\"https://dq-content.s3.amazonaws.com/469/se_sites.png\">
+[__Stack Exchange__](https://stackexchange.com/sites?view=list#percentanswered)
     "\n",
     "If you open the link shared above, you'll find a complete list of Stack Exchange websites sorted by percentage of questions that received answers. At the time of this writing, Data Science Stack Exchange (DSSE) is on the bottom 10 sites with respect to this metric.\n",
     "\n",
