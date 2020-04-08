@@ -110,6 +110,6 @@ Here's what the first few rows look like:
 
 
 ## Note
-### - Please see the __Stack_Exchange.ipynb__ file to see whole project in detail.
-### - Please see __Stack_Exchange.py__ file to see the python code.
-### -  __2019_questions.csv__ & __all_questions.csv__ are the datasets we used in this project.
+### - Please see the _Stack_Exchange.ipynb_ file to see whole project in detail.
+### - Please see _Stack_Exchange.py_ file to see the python code.
+### -  _2019_questions.csv_ & _all_questions.csv_ are the datasets we used in this project.
